@@ -6,7 +6,9 @@ Buy Conveyor Engineering in Modded Shop (default $125).
 
 Install [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) first.
 
-Download [conveyor-upgrade-wrench-0.3.0.msmod](content/conveyor-upgrade-wrench-0.3.0.msmod), import it with **Install mod package**, then select the mod and its required frameworks.
+Download [conveyor-upgrade-wrench-0.3.0.msmod](content/conveyor-upgrade-wrench-0.3.0.msmod), then drag and drop the `.msmod` file onto the [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) window. You can also use **Add mods…** (older loader builds: **Install mod package**).
+
+Select the mod and its required frameworks, click **Prepare files**, then **Launch**.
 
 Required mods: [shop-framework](https://github.com/swooping-mods/shop-framework), [hints-framework](https://github.com/swooping-mods/hints-framework).
 
