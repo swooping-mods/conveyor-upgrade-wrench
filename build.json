@@ -1,0 +1,6 @@
+{
+  "schema": "moon-independent-build-spec/v1",
+  "id": "conveyor-upgrade-wrench",
+  "kind": "native",
+  "entry": "mods/conveyor-upgrade-wrench/mod.c"
+}

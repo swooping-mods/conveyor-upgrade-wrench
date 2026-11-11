@@ -1,0 +1,29 @@
+{
+  "id": "conveyor-upgrade-wrench",
+  "kind": "native",
+  "version": "0.3.0",
+  "backlog": "M11 / I11",
+  "display_name": "Conveyor Upgrade Wrench",
+  "gameplay": true,
+  "feature_dependencies": [
+    "shop-framework",
+    "hints-framework"
+  ],
+  "play_help": [
+    "Buy Conveyor Engineering in the equipment shop (default $125).",
+    "Hammer U enters Upgrade mode; E upgrades an aimed belt; F10 toggles the legacy wrench mode.",
+    "Native purchase/equipment/hints integration implemented; gameplay checks deferred."
+  ],
+  "requires_apis": [
+    {
+      "api": "shop-framework.shop",
+      "abi": 1,
+      "min_size": 56
+    },
+    {
+      "api": "hints-framework.hints",
+      "abi": 1,
+      "min_size": 24
+    }
+  ]
+}
