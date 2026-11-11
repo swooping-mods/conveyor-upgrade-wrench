@@ -1,5 +1,7 @@
 # Conveyor Upgrade Wrench
 
+<img src="media/icon.png" alt="Conveyor Upgrade Wrench icon" width="128" height="128">
+
 Buy Conveyor Engineering in Modded Shop (default $125).
 
 ## Install
